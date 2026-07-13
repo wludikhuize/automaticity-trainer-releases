@@ -1,42 +1,31 @@
-# Automaticity Trainer releases
+# Automaticity Trainer
 
-This public repository contains release metadata and application-status information for **Automaticity Trainer**. The application source code is maintained separately in a private repository.
+**Automaticity Trainer** is a local learning application for building fast, automatic recall through repeated fill-in-the-blank practice. It can be used for languages, terminology, formulas, dates, symbols, or any other subject that can be represented by a sentence with ordered missing answers.
 
-## Files
+The application is available as a dependency-free local website and as an optional Electron desktop application.
 
-- [`VERSION`](VERSION) contains the latest published application version.
-- [`status.json`](status.json) controls whether published application versions are active.
-- GitHub Releases may contain installers and release notes when packaged builds are published.
+## Main features
 
-## Application status
+- Import reusable learning sets from JSON files.
+- Practise with multiple-choice, reduced-choice, or typed-recall difficulty levels.
+- Accept alternative correct answers for individual blanks.
+- Adapt exercise selection using accuracy, response speed, confidence, and review timing.
+- Measure active thinking time separately from inactive or away time.
+- Keep learner progress and learning sets stored locally on the user's device.
+- Generate local tutor reports containing actual checked mistakes and practice history.
+- Export a structured weakness profile for creating targeted follow-up learning sets.
+- Use mouse, touch, or keyboard controls throughout the practice flow.
 
-`status.json` has an overall `active` switch and optional version-specific overrides:
+Automaticity Trainer is designed for focused recall practice rather than lessons or grammar instruction. Learning-set authors remain in control of the subject matter, accepted answers, distractors, translations, and short post-answer explanations.
 
-```json
-{
-  "schemaVersion": 1,
-  "product": "automaticity-trainer",
-  "latestVersion": "1.2.0",
-  "active": true,
-  "message": "Automaticity Trainer is active.",
-  "versions": {
-    "1.2.0": {
-      "active": true,
-      "message": "Version 1.2.0 is active."
-    }
-  },
-  "updatedAt": "2026-07-13T00:00:00Z"
-}
-```
+## About this repository
 
-The overall switch is applied first. A version is usable only when the overall switch and its version-specific switch are both active. A version without an override follows the overall switch.
+This is the official public release-information repository for Automaticity Trainer. It contains the current published version and application availability metadata used by official installations. Application source code and development history are maintained separately in a private repository.
 
-To suspend every version, set the root `active` value to `false`. To suspend one version, keep the root active and set that version's `active` value to `false`. Update its message and `updatedAt` value in the same commit.
+Current published version: **1.2.0**
 
-Once an installation successfully reads an inactive status, it remembers that state locally and stops at its startup status screen. On a later startup, it will become usable again only after successfully reading an active status for its installed version. An unavailable or malformed status file does not newly disable an installation, but it also does not unlock an installation that previously observed an inactive status.
+## Ownership and licence
 
-Keep this repository public: installed copies read the raw `status.json` file without GitHub credentials.
+Automaticity Trainer was created by Wilco Ludikhuize.
 
-## Ownership
-
-Copyright (c) 2026 Wilco Ludikhuize. This metadata repository does not publish or license the private application source code.
+Copyright © 2026 Wilco Ludikhuize. All rights reserved. The application is proprietary software licensed for personal, non-commercial use. The complete licence terms are included with the application and its packaged distributions.
