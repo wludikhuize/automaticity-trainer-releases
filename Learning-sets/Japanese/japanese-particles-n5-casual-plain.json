@@ -1,0 +1,2312 @@
+{
+  "id": "japanese-particles-n5-casual-plain",
+  "name": "Japanese particles N5 casual plain form",
+  "choices": [
+    "は",
+    "が",
+    "を",
+    "に",
+    "で",
+    "へ",
+    "と",
+    "も",
+    "の",
+    "から",
+    "まで",
+    "ね",
+    "よ",
+    "か",
+    "や"
+  ],
+  "exercises": [
+    {
+      "sentence": "私_学生だよ。",
+      "answers": [
+        "は"
+      ],
+      "translation": "I’m a student.",
+      "explanation": "は marks the topic: as for me."
+    },
+    {
+      "sentence": "これ_私_本だよ。",
+      "answers": [
+        "は",
+        "の"
+      ],
+      "translation": "This is my book.",
+      "explanation": "は marks the topic; の links owner and thing."
+    },
+    {
+      "sentence": "それ_猫_写真だね。",
+      "answers": [
+        "は",
+        "の"
+      ],
+      "translation": "That’s a photo of a cat, right?"
+    },
+    {
+      "sentence": "あれ_先生_車だよ。",
+      "answers": [
+        "は",
+        "の"
+      ],
+      "translation": "That is the teacher’s car."
+    },
+    {
+      "sentence": "私_水_飲む。",
+      "answers": [
+        "は",
+        "を"
+      ],
+      "translation": "I drink water."
+    },
+    {
+      "sentence": "弟_パン_食べた。",
+      "answers": [
+        "は",
+        "を"
+      ],
+      "translation": "My younger brother ate bread."
+    },
+    {
+      "sentence": "猫_魚_食べる。",
+      "answers": [
+        "は",
+        "を"
+      ],
+      "translation": "The cat eats fish."
+    },
+    {
+      "sentence": "母_コーヒー_飲んだ。",
+      "answers": [
+        "は",
+        "を"
+      ],
+      "translation": "My mother drank coffee."
+    },
+    {
+      "sentence": "今日_学校_行く。",
+      "answers": [
+        "は",
+        [
+          "に",
+          "へ"
+        ]
+      ],
+      "translation": "Today I’m going to school.",
+      "explanation": "に and へ can both mark destination here."
+    },
+    {
+      "sentence": "明日_駅_行く。",
+      "answers": [
+        "は",
+        [
+          "に",
+          "へ"
+        ]
+      ],
+      "translation": "Tomorrow I’m going to the station."
+    },
+    {
+      "sentence": "昨日_スーパー_行った。",
+      "answers": [
+        "は",
+        [
+          "に",
+          "へ"
+        ]
+      ],
+      "translation": "Yesterday I went to the supermarket."
+    },
+    {
+      "sentence": "友だち_家_来た。",
+      "answers": [
+        "は",
+        "に"
+      ],
+      "translation": "My friend came to my house.",
+      "explanation": "に marks the arrival place."
+    },
+    {
+      "sentence": "家_帰る。",
+      "answers": [
+        [
+          "に",
+          "へ"
+        ]
+      ],
+      "translation": "I’m going home.",
+      "explanation": "に and へ can both mark destination."
+    },
+    {
+      "sentence": "駅_歩く。",
+      "answers": [
+        "まで"
+      ],
+      "translation": "I walk as far as the station."
+    },
+    {
+      "sentence": "駅_歩いて行く。",
+      "answers": [
+        "まで"
+      ],
+      "translation": "I walk to the station."
+    },
+    {
+      "sentence": "公園_歩く。",
+      "answers": [
+        "で"
+      ],
+      "translation": "I walk in the park.",
+      "explanation": "で marks where the action happens."
+    },
+    {
+      "sentence": "道_歩く。",
+      "answers": [
+        "を"
+      ],
+      "translation": "I walk along the road.",
+      "explanation": "を can mark the path/route of movement."
+    },
+    {
+      "sentence": "橋_渡る。",
+      "answers": [
+        "を"
+      ],
+      "translation": "I cross the bridge."
+    },
+    {
+      "sentence": "階段_上がる。",
+      "answers": [
+        "を"
+      ],
+      "translation": "I go up the stairs."
+    },
+    {
+      "sentence": "部屋_勉強する。",
+      "answers": [
+        "で"
+      ],
+      "translation": "I study in my room."
+    },
+    {
+      "sentence": "学校_日本語_勉強する。",
+      "answers": [
+        "で",
+        "を"
+      ],
+      "translation": "I study Japanese at school."
+    },
+    {
+      "sentence": "家_映画_見る。",
+      "answers": [
+        "で",
+        "を"
+      ],
+      "translation": "I watch a movie at home."
+    },
+    {
+      "sentence": "図書館_本_読む。",
+      "answers": [
+        "で",
+        "を"
+      ],
+      "translation": "I read a book at the library."
+    },
+    {
+      "sentence": "カフェ_コーヒー_飲む。",
+      "answers": [
+        "で",
+        "を"
+      ],
+      "translation": "I drink coffee at a cafe."
+    },
+    {
+      "sentence": "レストラン_昼ごはん_食べる。",
+      "answers": [
+        "で",
+        "を"
+      ],
+      "translation": "I eat lunch at a restaurant."
+    },
+    {
+      "sentence": "友だち_話す。",
+      "answers": [
+        "と"
+      ],
+      "translation": "I talk with a friend."
+    },
+    {
+      "sentence": "先生_話した。",
+      "answers": [
+        "と"
+      ],
+      "translation": "I talked with the teacher."
+    },
+    {
+      "sentence": "友だち_電話する。",
+      "answers": [
+        "に"
+      ],
+      "translation": "I call my friend.",
+      "explanation": "電話する usually takes に for the person called."
+    },
+    {
+      "sentence": "母_メールする。",
+      "answers": [
+        "に"
+      ],
+      "translation": "I email/text my mother."
+    },
+    {
+      "sentence": "先生_聞く。",
+      "answers": [
+        "に"
+      ],
+      "translation": "I ask the teacher."
+    },
+    {
+      "sentence": "先生_質問する。",
+      "answers": [
+        "に"
+      ],
+      "translation": "I ask the teacher a question."
+    },
+    {
+      "sentence": "友だち_プレゼント_あげる。",
+      "answers": [
+        "に",
+        "を"
+      ],
+      "translation": "I give a present to my friend."
+    },
+    {
+      "sentence": "妹_お菓子_あげた。",
+      "answers": [
+        "に",
+        "を"
+      ],
+      "translation": "I gave snacks to my younger sister."
+    },
+    {
+      "sentence": "父_お金_もらった。",
+      "answers": [
+        "に",
+        "を"
+      ],
+      "translation": "I received money from my father.",
+      "explanation": "For people, に can mark the source/person you receive from."
+    },
+    {
+      "sentence": "先生_本_もらった。",
+      "answers": [
+        "に",
+        "を"
+      ],
+      "translation": "I received a book from the teacher."
+    },
+    {
+      "sentence": "友だち_手紙_書く。",
+      "answers": [
+        "に",
+        "を"
+      ],
+      "translation": "I write a letter to my friend."
+    },
+    {
+      "sentence": "弟_宿題_手伝う。",
+      "answers": [
+        "の",
+        "を"
+      ],
+      "translation": "I help my younger brother with his homework.",
+      "explanation": "弟の宿題 = my brother’s homework."
+    },
+    {
+      "sentence": "私_猫_好きだ。",
+      "answers": [
+        "は",
+        "が"
+      ],
+      "translation": "I like cats.",
+      "explanation": "With 好き, the liked thing usually takes が."
+    },
+    {
+      "sentence": "私_犬_好きじゃない。",
+      "answers": [
+        "は",
+        "が"
+      ],
+      "translation": "I don’t like dogs."
+    },
+    {
+      "sentence": "妹_アイス_好きだ。",
+      "answers": [
+        "は",
+        "が"
+      ],
+      "translation": "My younger sister likes ice cream."
+    },
+    {
+      "sentence": "兄_サッカー_上手だ。",
+      "answers": [
+        "は",
+        "が"
+      ],
+      "translation": "My older brother is good at soccer."
+    },
+    {
+      "sentence": "私_漢字_苦手だ。",
+      "answers": [
+        "は",
+        "が"
+      ],
+      "translation": "I’m bad at kanji."
+    },
+    {
+      "sentence": "猫_いる。",
+      "answers": [
+        "が"
+      ],
+      "translation": "There is a cat."
+    },
+    {
+      "sentence": "机_上_本_ある。",
+      "answers": [
+        "の",
+        "に",
+        "が"
+      ],
+      "translation": "There is a book on the desk."
+    },
+    {
+      "sentence": "部屋_中_猫_いる。",
+      "answers": [
+        "の",
+        "に",
+        "が"
+      ],
+      "translation": "There is a cat inside the room."
+    },
+    {
+      "sentence": "かばん_中_財布_ある。",
+      "answers": [
+        "の",
+        "に",
+        "が"
+      ],
+      "translation": "There is a wallet inside the bag."
+    },
+    {
+      "sentence": "駅_前_コンビニ_ある。",
+      "answers": [
+        "の",
+        "に",
+        "が"
+      ],
+      "translation": "There is a convenience store in front of the station."
+    },
+    {
+      "sentence": "私_兄_いる。",
+      "answers": [
+        "は",
+        "が"
+      ],
+      "translation": "I have an older brother."
+    },
+    {
+      "sentence": "私_車_ない。",
+      "answers": [
+        "は",
+        "が"
+      ],
+      "translation": "I don’t have a car."
+    },
+    {
+      "sentence": "時間_ない。",
+      "answers": [
+        "が"
+      ],
+      "translation": "I don’t have time."
+    },
+    {
+      "sentence": "お金_ない。",
+      "answers": [
+        "が"
+      ],
+      "translation": "I don’t have money."
+    },
+    {
+      "sentence": "今日_雨_降る。",
+      "answers": [
+        "は",
+        "が"
+      ],
+      "translation": "It will rain today."
+    },
+    {
+      "sentence": "昨日_雪_降った。",
+      "answers": [
+        "は",
+        "が"
+      ],
+      "translation": "It snowed yesterday."
+    },
+    {
+      "sentence": "風_強いね。",
+      "answers": [
+        "が"
+      ],
+      "translation": "The wind is strong, isn’t it?"
+    },
+    {
+      "sentence": "天気_いいね。",
+      "answers": [
+        "が"
+      ],
+      "translation": "The weather is nice, isn’t it?"
+    },
+    {
+      "sentence": "これ_おいしいよ。",
+      "answers": [
+        "は"
+      ],
+      "translation": "This is good."
+    },
+    {
+      "sentence": "このパン_おいしい。",
+      "answers": [
+        "は"
+      ],
+      "translation": "This bread is good."
+    },
+    {
+      "sentence": "この店_安い。",
+      "answers": [
+        "は"
+      ],
+      "translation": "This shop is cheap."
+    },
+    {
+      "sentence": "あの人_優しい。",
+      "answers": [
+        "は"
+      ],
+      "translation": "That person is kind."
+    },
+    {
+      "sentence": "日本語_難しい。",
+      "answers": [
+        "は"
+      ],
+      "translation": "Japanese is difficult."
+    },
+    {
+      "sentence": "ひらがな_簡単だ。",
+      "answers": [
+        "は"
+      ],
+      "translation": "Hiragana is easy."
+    },
+    {
+      "sentence": "漢字_難しいね。",
+      "answers": [
+        "は"
+      ],
+      "translation": "Kanji is difficult, isn’t it?"
+    },
+    {
+      "sentence": "私_今日_忙しい。",
+      "answers": [
+        "は",
+        "は"
+      ],
+      "translation": "I’m busy today."
+    },
+    {
+      "sentence": "今日は私_忙しい。",
+      "answers": [
+        "が"
+      ],
+      "translation": "Today I’m the one who is busy.",
+      "explanation": "が often marks the focused subject."
+    },
+    {
+      "sentence": "誰_来る_？",
+      "answers": [
+        "が",
+        "か"
+      ],
+      "translation": "Who is coming?",
+      "explanation": "Question words like 誰 often take が."
+    },
+    {
+      "sentence": "何_食べる_？",
+      "answers": [
+        "を",
+        "か"
+      ],
+      "translation": "What will you eat?"
+    },
+    {
+      "sentence": "どこ_行く_？",
+      "answers": [
+        [
+          "に",
+          "へ"
+        ],
+        "か"
+      ],
+      "translation": "Where are you going?"
+    },
+    {
+      "sentence": "いつ_帰る_？",
+      "answers": [
+        "に",
+        "か"
+      ],
+      "translation": "When will you come back?",
+      "explanation": "に can mark a specific time, but casual speech may omit it."
+    },
+    {
+      "sentence": "何時_起きる_？",
+      "answers": [
+        "に",
+        "か"
+      ],
+      "translation": "What time do you wake up?"
+    },
+    {
+      "sentence": "七時_起きる。",
+      "answers": [
+        "に"
+      ],
+      "translation": "I wake up at seven."
+    },
+    {
+      "sentence": "九時_寝る。",
+      "answers": [
+        "に"
+      ],
+      "translation": "I sleep at nine."
+    },
+    {
+      "sentence": "月曜日_学校_行く。",
+      "answers": [
+        "に",
+        [
+          "に",
+          "へ"
+        ]
+      ],
+      "translation": "On Monday I go to school."
+    },
+    {
+      "sentence": "日曜日_仕事_ない。",
+      "answers": [
+        "は",
+        "が"
+      ],
+      "translation": "On Sunday I don’t have work."
+    },
+    {
+      "sentence": "朝_パン_食べる。",
+      "answers": [
+        "に",
+        "を"
+      ],
+      "translation": "In the morning, I eat bread."
+    },
+    {
+      "sentence": "夜_テレビ_見る。",
+      "answers": [
+        "に",
+        "を"
+      ],
+      "translation": "At night, I watch TV."
+    },
+    {
+      "sentence": "毎日_日本語_勉強する。",
+      "answers": [
+        "は",
+        "を"
+      ],
+      "translation": "Every day I study Japanese."
+    },
+    {
+      "sentence": "今日_何_する_？",
+      "answers": [
+        "は",
+        "を",
+        "か"
+      ],
+      "translation": "What are you doing today?"
+    },
+    {
+      "sentence": "今_何_してる_？",
+      "answers": [
+        "は",
+        "を",
+        "か"
+      ],
+      "translation": "What are you doing now?"
+    },
+    {
+      "sentence": "昨日_何_した_？",
+      "answers": [
+        "は",
+        "を",
+        "か"
+      ],
+      "translation": "What did you do yesterday?"
+    },
+    {
+      "sentence": "私_昨日_映画_見た。",
+      "answers": [
+        "は",
+        "は",
+        "を"
+      ],
+      "translation": "I watched a movie yesterday."
+    },
+    {
+      "sentence": "今日は映画_見ない。",
+      "answers": [
+        "は"
+      ],
+      "translation": "Today I won’t watch a movie."
+    },
+    {
+      "sentence": "明日_友だち_会う。",
+      "answers": [
+        "は",
+        "に"
+      ],
+      "translation": "Tomorrow I’ll meet a friend."
+    },
+    {
+      "sentence": "駅_友だち_会う。",
+      "answers": [
+        "で",
+        "に"
+      ],
+      "translation": "I’ll meet a friend at the station."
+    },
+    {
+      "sentence": "公園_友だち_遊ぶ。",
+      "answers": [
+        "で",
+        "と"
+      ],
+      "translation": "I play with my friend at the park."
+    },
+    {
+      "sentence": "弟_ゲーム_する。",
+      "answers": [
+        "は",
+        "を"
+      ],
+      "translation": "My younger brother plays a game."
+    },
+    {
+      "sentence": "私_ゲーム_しない。",
+      "answers": [
+        "は",
+        "を"
+      ],
+      "translation": "I don’t play games."
+    },
+    {
+      "sentence": "友だち_一緒_行く。",
+      "answers": [
+        "と",
+        "に"
+      ],
+      "translation": "I go together with my friend."
+    },
+    {
+      "sentence": "母_一緒_買い物する。",
+      "answers": [
+        "と",
+        "に"
+      ],
+      "translation": "I go shopping together with my mother."
+    },
+    {
+      "sentence": "一人_行く。",
+      "answers": [
+        "で"
+      ],
+      "translation": "I go alone.",
+      "explanation": "一人で means alone/by oneself."
+    },
+    {
+      "sentence": "二人_行った。",
+      "answers": [
+        "で"
+      ],
+      "translation": "We went as two people / together."
+    },
+    {
+      "sentence": "バス_学校_行く。",
+      "answers": [
+        "で",
+        [
+          "に",
+          "へ"
+        ]
+      ],
+      "translation": "I go to school by bus."
+    },
+    {
+      "sentence": "電車_東京_行く。",
+      "answers": [
+        "で",
+        [
+          "に",
+          "へ"
+        ]
+      ],
+      "translation": "I go to Tokyo by train."
+    },
+    {
+      "sentence": "自転車_駅_行く。",
+      "answers": [
+        "で",
+        [
+          "に",
+          "へ"
+        ]
+      ],
+      "translation": "I go to the station by bicycle."
+    },
+    {
+      "sentence": "車_スーパー_行った。",
+      "answers": [
+        "で",
+        [
+          "に",
+          "へ"
+        ]
+      ],
+      "translation": "I went to the supermarket by car."
+    },
+    {
+      "sentence": "歩いて学校_行く。",
+      "answers": [
+        [
+          "に",
+          "へ"
+        ]
+      ],
+      "translation": "I walk to school."
+    },
+    {
+      "sentence": "日本_来た。",
+      "answers": [
+        [
+          "に",
+          "へ"
+        ]
+      ],
+      "translation": "I came to Japan."
+    },
+    {
+      "sentence": "オランダ_住んでる。",
+      "answers": [
+        "に"
+      ],
+      "translation": "I live in the Netherlands."
+    },
+    {
+      "sentence": "東京_住んでた。",
+      "answers": [
+        "に"
+      ],
+      "translation": "I lived in Tokyo."
+    },
+    {
+      "sentence": "駅_近く_住んでる。",
+      "answers": [
+        "の",
+        "に"
+      ],
+      "translation": "I live near the station."
+    },
+    {
+      "sentence": "学校_近く_カフェ_ある。",
+      "answers": [
+        "の",
+        "に",
+        "が"
+      ],
+      "translation": "There is a cafe near the school."
+    },
+    {
+      "sentence": "ここ_名前_書く。",
+      "answers": [
+        "に",
+        "を"
+      ],
+      "translation": "I write my name here."
+    },
+    {
+      "sentence": "紙_名前_書いて。",
+      "answers": [
+        "に",
+        "を"
+      ],
+      "translation": "Write your name on the paper."
+    },
+    {
+      "sentence": "ノート_日本語_書く。",
+      "answers": [
+        "に",
+        "を"
+      ],
+      "translation": "I write Japanese in my notebook."
+    },
+    {
+      "sentence": "黒板_漢字_書く。",
+      "answers": [
+        "に",
+        "を"
+      ],
+      "translation": "I write kanji on the blackboard."
+    },
+    {
+      "sentence": "椅子_座る。",
+      "answers": [
+        "に"
+      ],
+      "translation": "I sit on a chair."
+    },
+    {
+      "sentence": "ベンチ_座る。",
+      "answers": [
+        "に"
+      ],
+      "translation": "I sit on a bench."
+    },
+    {
+      "sentence": "ソファ_座った。",
+      "answers": [
+        "に"
+      ],
+      "translation": "I sat on the sofa."
+    },
+    {
+      "sentence": "ベッド_寝る。",
+      "answers": [
+        "で"
+      ],
+      "translation": "I sleep in the bed.",
+      "explanation": "で marks where the action happens."
+    },
+    {
+      "sentence": "ホテル_泊まる。",
+      "answers": [
+        "に"
+      ],
+      "translation": "I stay at a hotel.",
+      "explanation": "泊まる uses に for the place you stay."
+    },
+    {
+      "sentence": "友だち_家_泊まる。",
+      "answers": [
+        "の",
+        "に"
+      ],
+      "translation": "I stay at my friend’s house."
+    },
+    {
+      "sentence": "ここ_待つ。",
+      "answers": [
+        "で"
+      ],
+      "translation": "I wait here."
+    },
+    {
+      "sentence": "駅_待ってる。",
+      "answers": [
+        "で"
+      ],
+      "translation": "I’m waiting at the station."
+    },
+    {
+      "sentence": "友だち_待つ。",
+      "answers": [
+        "を"
+      ],
+      "translation": "I wait for my friend."
+    },
+    {
+      "sentence": "バス_待ってる。",
+      "answers": [
+        "を"
+      ],
+      "translation": "I’m waiting for the bus."
+    },
+    {
+      "sentence": "日本語_わかる。",
+      "answers": [
+        "が"
+      ],
+      "translation": "I understand Japanese."
+    },
+    {
+      "sentence": "英語_わかる。",
+      "answers": [
+        "が"
+      ],
+      "translation": "I understand English."
+    },
+    {
+      "sentence": "漢字_読める。",
+      "answers": [
+        "が"
+      ],
+      "translation": "I can read kanji."
+    },
+    {
+      "sentence": "ひらがな_書ける。",
+      "answers": [
+        "が"
+      ],
+      "translation": "I can write hiragana."
+    },
+    {
+      "sentence": "ピアノ_弾ける。",
+      "answers": [
+        "が"
+      ],
+      "translation": "I can play piano."
+    },
+    {
+      "sentence": "日本語_話せる。",
+      "answers": [
+        "が"
+      ],
+      "translation": "I can speak Japanese."
+    },
+    {
+      "sentence": "水_ほしい。",
+      "answers": [
+        "が"
+      ],
+      "translation": "I want water."
+    },
+    {
+      "sentence": "新しい本_ほしい。",
+      "answers": [
+        "が"
+      ],
+      "translation": "I want a new book."
+    },
+    {
+      "sentence": "コーヒー_飲みたい。",
+      "answers": [
+        [
+          "を",
+          "が"
+        ]
+      ],
+      "translation": "I want to drink coffee.",
+      "explanation": "With たい, both を and が are common. が emphasizes the desired thing."
+    },
+    {
+      "sentence": "ラーメン_食べたい。",
+      "answers": [
+        [
+          "を",
+          "が"
+        ]
+      ],
+      "translation": "I want to eat ramen."
+    },
+    {
+      "sentence": "映画_見たい。",
+      "answers": [
+        [
+          "を",
+          "が"
+        ]
+      ],
+      "translation": "I want to watch a movie."
+    },
+    {
+      "sentence": "日本_行きたい。",
+      "answers": [
+        [
+          "に",
+          "へ"
+        ]
+      ],
+      "translation": "I want to go to Japan."
+    },
+    {
+      "sentence": "家_帰りたい。",
+      "answers": [
+        [
+          "に",
+          "へ"
+        ]
+      ],
+      "translation": "I want to go home."
+    },
+    {
+      "sentence": "これ_ください。",
+      "answers": [
+        "を"
+      ],
+      "translation": "This please."
+    },
+    {
+      "sentence": "水_ください。",
+      "answers": [
+        "を"
+      ],
+      "translation": "Water please."
+    },
+    {
+      "sentence": "メニュー_ください。",
+      "answers": [
+        "を"
+      ],
+      "translation": "Menu please."
+    },
+    {
+      "sentence": "これ_いくら_？",
+      "answers": [
+        "は",
+        "か"
+      ],
+      "translation": "How much is this?"
+    },
+    {
+      "sentence": "駅_どこ_？",
+      "answers": [
+        "は",
+        "か"
+      ],
+      "translation": "Where is the station?"
+    },
+    {
+      "sentence": "トイレ_どこ_？",
+      "answers": [
+        "は",
+        "か"
+      ],
+      "translation": "Where is the toilet?"
+    },
+    {
+      "sentence": "この電車_東京_行く_？",
+      "answers": [
+        "は",
+        [
+          "に",
+          "へ"
+        ],
+        "か"
+      ],
+      "translation": "Does this train go to Tokyo?"
+    },
+    {
+      "sentence": "このバス_駅_行く_？",
+      "answers": [
+        "は",
+        [
+          "に",
+          "へ"
+        ],
+        "か"
+      ],
+      "translation": "Does this bus go to the station?"
+    },
+    {
+      "sentence": "駅_ここ_近い。",
+      "answers": [
+        "は",
+        "から"
+      ],
+      "translation": "The station is close from here."
+    },
+    {
+      "sentence": "家_学校_遠い。",
+      "answers": [
+        "から",
+        "まで"
+      ],
+      "translation": "It’s far from home to school."
+    },
+    {
+      "sentence": "ここ_駅_歩いて十分だ。",
+      "answers": [
+        "から",
+        "まで"
+      ],
+      "translation": "From here to the station is ten minutes on foot."
+    },
+    {
+      "sentence": "学校_家_バス_三十分だ。",
+      "answers": [
+        "から",
+        "まで",
+        "で"
+      ],
+      "translation": "From school to home takes thirty minutes by bus."
+    },
+    {
+      "sentence": "九時_五時_仕事だ。",
+      "answers": [
+        "から",
+        "まで"
+      ],
+      "translation": "Work is from nine to five."
+    },
+    {
+      "sentence": "月曜日_金曜日_学校だ。",
+      "answers": [
+        "から",
+        "まで"
+      ],
+      "translation": "School is from Monday to Friday."
+    },
+    {
+      "sentence": "朝_夜_忙しい。",
+      "answers": [
+        "から",
+        "まで"
+      ],
+      "translation": "I’m busy from morning until night."
+    },
+    {
+      "sentence": "一時_二時_昼ごはんだ。",
+      "answers": [
+        "から",
+        "まで"
+      ],
+      "translation": "Lunch is from one to two."
+    },
+    {
+      "sentence": "友だち_先生_来た。",
+      "answers": [
+        "と",
+        "が"
+      ],
+      "translation": "My friend and the teacher came."
+    },
+    {
+      "sentence": "パン_卵_食べる。",
+      "answers": [
+        "と",
+        "を"
+      ],
+      "translation": "I eat bread and eggs."
+    },
+    {
+      "sentence": "コーヒー_水_飲む。",
+      "answers": [
+        "と",
+        "を"
+      ],
+      "translation": "I drink coffee and water."
+    },
+    {
+      "sentence": "猫_犬_好きだ。",
+      "answers": [
+        "と",
+        "が"
+      ],
+      "translation": "I like cats and dogs."
+    },
+    {
+      "sentence": "日曜日_月曜日_休みだ。",
+      "answers": [
+        "と",
+        "は"
+      ],
+      "translation": "Sunday and Monday are days off."
+    },
+    {
+      "sentence": "スーパー_パン_牛乳_買う。",
+      "answers": [
+        "で",
+        "と",
+        "を"
+      ],
+      "translation": "I buy bread and milk at the supermarket."
+    },
+    {
+      "sentence": "コンビニ_おにぎり_お茶_買った。",
+      "answers": [
+        "で",
+        "と",
+        "を"
+      ],
+      "translation": "I bought a rice ball and tea at the convenience store."
+    },
+    {
+      "sentence": "机_椅子_部屋_ある。",
+      "answers": [
+        "と",
+        "が",
+        "に"
+      ],
+      "translation": "There is a desk and a chair in the room."
+    },
+    {
+      "sentence": "猫_犬_公園_いる。",
+      "answers": [
+        "と",
+        "が",
+        "に"
+      ],
+      "translation": "There are a cat and a dog in the park."
+    },
+    {
+      "sentence": "私_兄_妹_いる。",
+      "answers": [
+        "は",
+        "と",
+        "が"
+      ],
+      "translation": "I have an older brother and a younger sister."
+    },
+    {
+      "sentence": "私_猫_犬_いない。",
+      "answers": [
+        "は",
+        "も",
+        "も"
+      ],
+      "translation": "I have neither a cat nor a dog.",
+      "explanation": "In negative sentences, も can mean 'not either'."
+    },
+    {
+      "sentence": "今日_明日_仕事だ。",
+      "answers": [
+        "も",
+        "も"
+      ],
+      "translation": "Both today and tomorrow are work days."
+    },
+    {
+      "sentence": "私_行く。",
+      "answers": [
+        "も"
+      ],
+      "translation": "I’m going too."
+    },
+    {
+      "sentence": "弟_行かない。",
+      "answers": [
+        "も"
+      ],
+      "translation": "My younger brother isn’t going either."
+    },
+    {
+      "sentence": "これ_おいしい。",
+      "answers": [
+        "も"
+      ],
+      "translation": "This is also good."
+    },
+    {
+      "sentence": "日本語_英語_勉強してる。",
+      "answers": [
+        "も",
+        "も"
+      ],
+      "translation": "I’m studying both Japanese and English."
+    },
+    {
+      "sentence": "朝ごはん_食べない。",
+      "answers": [
+        "は"
+      ],
+      "translation": "I don’t eat breakfast.",
+      "explanation": "は often marks contrast or topic in negative sentences."
+    },
+    {
+      "sentence": "肉_食べない。",
+      "answers": [
+        "は"
+      ],
+      "translation": "I don’t eat meat."
+    },
+    {
+      "sentence": "コーヒー_飲まない。",
+      "answers": [
+        "は"
+      ],
+      "translation": "I don’t drink coffee."
+    },
+    {
+      "sentence": "今日は学校_行かない。",
+      "answers": [
+        [
+          "に",
+          "へ"
+        ]
+      ],
+      "translation": "Today I’m not going to school."
+    },
+    {
+      "sentence": "明日は仕事_行かない。",
+      "answers": [
+        "に"
+      ],
+      "translation": "Tomorrow I’m not going to work."
+    },
+    {
+      "sentence": "何_食べない。",
+      "answers": [
+        "も"
+      ],
+      "translation": "I won’t eat anything.",
+      "explanation": "何も + negative = nothing / not anything."
+    },
+    {
+      "sentence": "どこ_行かない。",
+      "answers": [
+        "にも"
+      ],
+      "choices": [
+        "は",
+        "が",
+        "を",
+        "に",
+        "で",
+        "へ",
+        "と",
+        "も",
+        "にも",
+        "から",
+        "まで",
+        "の"
+      ],
+      "translation": "I won’t go anywhere.",
+      "explanation": "どこにも + negative = not anywhere."
+    },
+    {
+      "sentence": "誰_会わない。",
+      "answers": [
+        "にも"
+      ],
+      "choices": [
+        "は",
+        "が",
+        "を",
+        "に",
+        "で",
+        "へ",
+        "と",
+        "も",
+        "にも",
+        "から",
+        "まで",
+        "の"
+      ],
+      "translation": "I won’t meet anyone.",
+      "explanation": "誰にも + negative = not anyone."
+    },
+    {
+      "sentence": "何_ない。",
+      "answers": [
+        "も"
+      ],
+      "translation": "There isn’t anything."
+    },
+    {
+      "sentence": "一人_いない。",
+      "answers": [
+        "も"
+      ],
+      "translation": "There isn’t even one person."
+    },
+    {
+      "sentence": "一つ_ない。",
+      "answers": [
+        "も"
+      ],
+      "translation": "There isn’t even one."
+    },
+    {
+      "sentence": "本_一冊読んだ。",
+      "answers": [
+        "を"
+      ],
+      "translation": "I read one book."
+    },
+    {
+      "sentence": "水_一杯飲んだ。",
+      "answers": [
+        "を"
+      ],
+      "translation": "I drank one glass of water."
+    },
+    {
+      "sentence": "りんご_二つ食べた。",
+      "answers": [
+        "を"
+      ],
+      "translation": "I ate two apples."
+    },
+    {
+      "sentence": "猫_二匹いる。",
+      "answers": [
+        "が"
+      ],
+      "translation": "There are two cats."
+    },
+    {
+      "sentence": "学生_五人いる。",
+      "answers": [
+        "が"
+      ],
+      "translation": "There are five students."
+    },
+    {
+      "sentence": "一日_三回、薬_飲む。",
+      "answers": [
+        "に",
+        "を"
+      ],
+      "translation": "I take medicine three times a day."
+    },
+    {
+      "sentence": "週_二回、日本語_勉強する。",
+      "answers": [
+        "に",
+        "を"
+      ],
+      "translation": "I study Japanese twice a week."
+    },
+    {
+      "sentence": "私_誕生日_七月だ。",
+      "answers": [
+        "の",
+        "は"
+      ],
+      "translation": "My birthday is in July."
+    },
+    {
+      "sentence": "母_誕生日_明日だ。",
+      "answers": [
+        "の",
+        "は"
+      ],
+      "translation": "My mother’s birthday is tomorrow."
+    },
+    {
+      "sentence": "日本語_先生_優しい。",
+      "answers": [
+        "の",
+        "は"
+      ],
+      "translation": "My Japanese teacher is kind."
+    },
+    {
+      "sentence": "学校_先生_面白い。",
+      "answers": [
+        "の",
+        "は"
+      ],
+      "translation": "The school teacher is interesting/funny."
+    },
+    {
+      "sentence": "友だち_名前_コウだ。",
+      "answers": [
+        "の",
+        "は"
+      ],
+      "translation": "My friend’s name is Kou."
+    },
+    {
+      "sentence": "猫_名前_ミミだ。",
+      "answers": [
+        "の",
+        "は"
+      ],
+      "translation": "The cat’s name is Mimi."
+    },
+    {
+      "sentence": "私_部屋_小さい。",
+      "answers": [
+        "の",
+        "は"
+      ],
+      "translation": "My room is small."
+    },
+    {
+      "sentence": "弟_部屋_汚い。",
+      "answers": [
+        "の",
+        "は"
+      ],
+      "translation": "My younger brother’s room is messy."
+    },
+    {
+      "sentence": "この本_私_じゃない。",
+      "answers": [
+        "は",
+        "の"
+      ],
+      "translation": "This book isn’t mine."
+    },
+    {
+      "sentence": "そのペン_先生_だよ。",
+      "answers": [
+        "は",
+        "の"
+      ],
+      "translation": "That pen is the teacher’s."
+    },
+    {
+      "sentence": "どれ_あなた_？",
+      "answers": [
+        "が",
+        "の"
+      ],
+      "translation": "Which one is yours?"
+    },
+    {
+      "sentence": "赤いの_好き。",
+      "answers": [
+        "が"
+      ],
+      "translation": "I like the red one."
+    },
+    {
+      "sentence": "大きいの_ください。",
+      "answers": [
+        "を"
+      ],
+      "translation": "The big one, please."
+    },
+    {
+      "sentence": "安いの_買う。",
+      "answers": [
+        "を"
+      ],
+      "translation": "I’ll buy the cheap one."
+    },
+    {
+      "sentence": "新しいの_ほしい。",
+      "answers": [
+        "が"
+      ],
+      "translation": "I want the new one."
+    },
+    {
+      "sentence": "これ_それ_どっち_いい_？",
+      "answers": [
+        "と",
+        "は",
+        "が",
+        "か"
+      ],
+      "translation": "Between this and that, which is good/better?"
+    },
+    {
+      "sentence": "コーヒー_お茶_どっち_飲む_？",
+      "answers": [
+        "と",
+        "は",
+        "を",
+        "か"
+      ],
+      "translation": "Which will you drink, coffee or tea?"
+    },
+    {
+      "sentence": "猫_犬_どっち_好き_？",
+      "answers": [
+        "と",
+        "は",
+        "が",
+        "か"
+      ],
+      "translation": "Which do you like, cats or dogs?"
+    },
+    {
+      "sentence": "私_猫_ほう_好き。",
+      "answers": [
+        "は",
+        "の",
+        "が"
+      ],
+      "translation": "I prefer cats."
+    },
+    {
+      "sentence": "電車_ほう_速い。",
+      "answers": [
+        "の",
+        "が"
+      ],
+      "translation": "The train is faster."
+    },
+    {
+      "sentence": "バス_ほう_安い。",
+      "answers": [
+        "の",
+        "が"
+      ],
+      "translation": "The bus is cheaper."
+    },
+    {
+      "sentence": "これ_それ_同じだ。",
+      "answers": [
+        "は",
+        "と"
+      ],
+      "translation": "This is the same as that."
+    },
+    {
+      "sentence": "私_兄_似てる。",
+      "answers": [
+        "は",
+        "に"
+      ],
+      "translation": "I look like my older brother."
+    },
+    {
+      "sentence": "母_父_違う。",
+      "answers": [
+        "は",
+        "と"
+      ],
+      "translation": "My mother is different from my father."
+    },
+    {
+      "sentence": "日本語_英語_違う。",
+      "answers": [
+        "は",
+        "と"
+      ],
+      "translation": "Japanese is different from English."
+    },
+    {
+      "sentence": "これ_日本語_何_言う_？",
+      "answers": [
+        "は",
+        "で",
+        "と",
+        "か"
+      ],
+      "translation": "How do you say this in Japanese?",
+      "explanation": "で marks the language/tool; と marks the quoted word/sound."
+    },
+    {
+      "sentence": "英語_何_言う_？",
+      "answers": [
+        "で",
+        "と",
+        "か"
+      ],
+      "translation": "How do you say it in English?"
+    },
+    {
+      "sentence": "先生_ありがとう_言った。",
+      "answers": [
+        "に",
+        "と"
+      ],
+      "translation": "I said thank you to the teacher."
+    },
+    {
+      "sentence": "友だち_大丈夫_言った。",
+      "answers": [
+        "に",
+        "と"
+      ],
+      "translation": "I said 'it’s okay' to my friend."
+    },
+    {
+      "sentence": "母_おはよう_言う。",
+      "answers": [
+        "に",
+        "と"
+      ],
+      "translation": "I say good morning to my mother."
+    },
+    {
+      "sentence": "これは何_読む_？",
+      "answers": [
+        "と",
+        "か"
+      ],
+      "translation": "How do you read this?",
+      "explanation": "With 読む, と can mark the reading/pronunciation."
+    },
+    {
+      "sentence": "山田_読む。",
+      "answers": [
+        "と"
+      ],
+      "translation": "It is read as Yamada."
+    },
+    {
+      "sentence": "私_思う。",
+      "answers": [
+        "は"
+      ],
+      "translation": "I think so / that’s what I think."
+    },
+    {
+      "sentence": "いい_思う。",
+      "answers": [
+        "と"
+      ],
+      "translation": "I think it’s good."
+    },
+    {
+      "sentence": "難しい_思う。",
+      "answers": [
+        "と"
+      ],
+      "translation": "I think it’s difficult."
+    },
+    {
+      "sentence": "楽しい_思った。",
+      "answers": [
+        "と"
+      ],
+      "translation": "I thought it was fun."
+    },
+    {
+      "sentence": "雨_思う。",
+      "answers": [
+        "だと"
+      ],
+      "choices": [
+        "は",
+        "が",
+        "を",
+        "に",
+        "で",
+        "と",
+        "だと",
+        "から",
+        "まで",
+        "の"
+      ],
+      "translation": "I think it will rain / I think it’s rain.",
+      "explanation": "Before 思う, nouns/na-adjectives often need だと in plain style."
+    },
+    {
+      "sentence": "学生_思う。",
+      "answers": [
+        "だと"
+      ],
+      "choices": [
+        "は",
+        "が",
+        "を",
+        "に",
+        "で",
+        "と",
+        "だと",
+        "から",
+        "まで",
+        "の"
+      ],
+      "translation": "I think he/she is a student.",
+      "explanation": "学生 is a noun, so plain quotation is 学生だと."
+    },
+    {
+      "sentence": "静か_思う。",
+      "answers": [
+        "だと"
+      ],
+      "choices": [
+        "は",
+        "が",
+        "を",
+        "に",
+        "で",
+        "と",
+        "だと",
+        "から",
+        "まで",
+        "の"
+      ],
+      "translation": "I think it’s quiet.",
+      "explanation": "静か is a na-adjective, so use 静かだと."
+    },
+    {
+      "sentence": "この映画_面白い_思う。",
+      "answers": [
+        "は",
+        "と"
+      ],
+      "translation": "I think this movie is interesting."
+    },
+    {
+      "sentence": "この本_簡単だ_思う。",
+      "answers": [
+        "は",
+        "と"
+      ],
+      "translation": "I think this book is easy."
+    },
+    {
+      "sentence": "今日_寒い_思う。",
+      "answers": [
+        "は",
+        "と"
+      ],
+      "translation": "I think today is cold."
+    },
+    {
+      "sentence": "明日_雨だ_思う。",
+      "answers": [
+        "は",
+        "と"
+      ],
+      "translation": "I think tomorrow will be rainy."
+    },
+    {
+      "sentence": "たぶん先生_来る。",
+      "answers": [
+        "が"
+      ],
+      "translation": "The teacher will probably come."
+    },
+    {
+      "sentence": "たぶん雨_降る。",
+      "answers": [
+        "が"
+      ],
+      "translation": "It will probably rain."
+    },
+    {
+      "sentence": "たぶん友だち_来ない。",
+      "answers": [
+        "は"
+      ],
+      "translation": "My friend probably won’t come."
+    },
+    {
+      "sentence": "もう宿題_した。",
+      "answers": [
+        ["は", "を"]
+      ],
+      "translation": "I already did my homework."
+    },
+    {
+      "sentence": "まだ宿題_してない。",
+      "answers": [
+        "は"
+      ],
+      "translation": "I haven’t done my homework yet."
+    },
+    {
+      "sentence": "もうご飯_食べた_？",
+      "answers": [
+        "は",
+        "か"
+      ],
+      "translation": "Did you already eat?"
+    },
+    {
+      "sentence": "まだ水_ある_？",
+      "answers": [
+        "は",
+        "か"
+      ],
+      "translation": "Is there still water?"
+    },
+    {
+      "sentence": "ちょっと水_飲む。",
+      "answers": [
+        "を"
+      ],
+      "translation": "I’ll drink a little water."
+    },
+    {
+      "sentence": "少し日本語_話せる。",
+      "answers": [
+        "が"
+      ],
+      "translation": "I can speak a little Japanese."
+    },
+    {
+      "sentence": "たくさん本_読む。",
+      "answers": [
+        "を"
+      ],
+      "translation": "I read many books."
+    },
+    {
+      "sentence": "たくさん人_いる。",
+      "answers": [
+        "が"
+      ],
+      "translation": "There are many people."
+    },
+    {
+      "sentence": "ここ_人_多い。",
+      "answers": [
+        "は",
+        "が"
+      ],
+      "translation": "There are many people here."
+    },
+    {
+      "sentence": "この道_車_多い。",
+      "answers": [
+        "は",
+        "が"
+      ],
+      "translation": "There are many cars on this road."
+    },
+    {
+      "sentence": "駅_人_少ない。",
+      "answers": [
+        "は",
+        "が"
+      ],
+      "translation": "There are few people at the station."
+    },
+    {
+      "sentence": "今日_時間_ある。",
+      "answers": [
+        "は",
+        "が"
+      ],
+      "translation": "I have time today."
+    },
+    {
+      "sentence": "明日_時間_ない。",
+      "answers": [
+        "は",
+        "が"
+      ],
+      "translation": "I don’t have time tomorrow."
+    },
+    {
+      "sentence": "今_暇だ。",
+      "answers": [
+        "は"
+      ],
+      "translation": "I’m free now."
+    },
+    {
+      "sentence": "今日は十時_暇だ。",
+      "answers": [
+        "から"
+      ],
+      "translation": "Today I’m free from ten."
+    },
+    {
+      "sentence": "五時_帰る。",
+      "answers": [
+        "に"
+      ],
+      "translation": "I’ll go home at five."
+    },
+    {
+      "sentence": "五時_帰った。",
+      "answers": [
+        "に"
+      ],
+      "translation": "I went home at five."
+    },
+    {
+      "sentence": "五時_家_帰った。",
+      "answers": [
+        "に",
+        [
+          "に",
+          "へ"
+        ]
+      ],
+      "translation": "I went home at five."
+    },
+    {
+      "sentence": "昨日_十時_寝た。",
+      "answers": [
+        "は",
+        "に"
+      ],
+      "translation": "Yesterday I slept at ten."
+    },
+    {
+      "sentence": "今日_六時_起きた。",
+      "answers": [
+        "は",
+        "に"
+      ],
+      "translation": "Today I woke up at six."
+    },
+    {
+      "sentence": "昼_カレー_食べた。",
+      "answers": [
+        "に",
+        "を"
+      ],
+      "translation": "I ate curry at lunch."
+    },
+    {
+      "sentence": "朝_シャワー_浴びた。",
+      "answers": [
+        "に",
+        "を"
+      ],
+      "translation": "I took a shower in the morning."
+    },
+    {
+      "sentence": "夜_日本語_勉強した。",
+      "answers": [
+        "に",
+        "を"
+      ],
+      "translation": "At night I studied Japanese."
+    },
+    {
+      "sentence": "昨日_仕事_した。",
+      "answers": [
+        "は",
+        "を"
+      ],
+      "translation": "Yesterday I worked."
+    },
+    {
+      "sentence": "今日_仕事_休む。",
+      "answers": [
+        "は",
+        "を"
+      ],
+      "translation": "Today I take a day off work."
+    },
+    {
+      "sentence": "病気_学校_休む。",
+      "answers": [
+        "で",
+        "を"
+      ],
+      "translation": "I miss school because of sickness."
+    },
+    {
+      "sentence": "雨_外_行かない。",
+      "answers": [
+        "で",
+        "に"
+      ],
+      "translation": "Because of rain, I won’t go outside."
+    },
+    {
+      "sentence": "風邪_寝てる。",
+      "answers": [
+        "で"
+      ],
+      "translation": "I’m sleeping because of a cold."
+    },
+    {
+      "sentence": "日本語_難しい_楽しい。",
+      "answers": [
+        "は",
+        "けど"
+      ],
+      "choices": [
+        "は",
+        "が",
+        "を",
+        "に",
+        "で",
+        "と",
+        "けど",
+        "から",
+        "まで",
+        "の"
+      ],
+      "translation": "Japanese is difficult, but fun.",
+      "explanation": "けど is not a particle button in many sets, but it is useful casual linking."
+    },
+    {
+      "sentence": "疲れた_勉強する。",
+      "answers": [
+        "けど"
+      ],
+      "choices": [
+        "は",
+        "が",
+        "を",
+        "に",
+        "で",
+        "と",
+        "けど",
+        "から",
+        "まで",
+        "の"
+      ],
+      "translation": "I’m tired, but I’ll study."
+    },
+    {
+      "sentence": "暑い_窓_開ける。",
+      "answers": [
+        "から",
+        "を"
+      ],
+      "translation": "Because it’s hot, I’ll open the window."
+    },
+    {
+      "sentence": "寒い_窓_閉める。",
+      "answers": [
+        "から",
+        "を"
+      ],
+      "translation": "Because it’s cold, I’ll close the window."
+    },
+    {
+      "sentence": "お腹_すいた_ご飯_食べる。",
+      "answers": [
+        "が",
+        "から",
+        "を"
+      ],
+      "translation": "Because I’m hungry, I’ll eat."
+    },
+    {
+      "sentence": "喉_渇いた_水_飲む。",
+      "answers": [
+        "が",
+        "から",
+        "を"
+      ],
+      "translation": "Because I’m thirsty, I’ll drink water."
+    },
+    {
+      "sentence": "眠い_寝る。",
+      "answers": [
+        "から"
+      ],
+      "translation": "Because I’m sleepy, I’ll sleep."
+    },
+    {
+      "sentence": "時間_ない_急ぐ。",
+      "answers": [
+        "が",
+        "から"
+      ],
+      "translation": "Because I don’t have time, I’ll hurry."
+    },
+    {
+      "sentence": "お金_ない_買わない。",
+      "answers": [
+        "が",
+        "から"
+      ],
+      "translation": "Because I don’t have money, I won’t buy it."
+    },
+    {
+      "sentence": "今日_暑いね。",
+      "answers": [
+        "は"
+      ],
+      "translation": "It’s hot today, isn’t it?"
+    },
+    {
+      "sentence": "これ_いいね。",
+      "answers": [
+        "は"
+      ],
+      "translation": "This is good, isn’t it?"
+    },
+    {
+      "sentence": "大丈夫_？",
+      "answers": [
+        "か"
+      ],
+      "translation": "Are you okay?"
+    },
+    {
+      "sentence": "本当_？",
+      "answers": [
+        "か"
+      ],
+      "translation": "Really?"
+    },
+    {
+      "sentence": "行く_？",
+      "answers": [
+        "か"
+      ],
+      "translation": "Are you going?"
+    },
+    {
+      "sentence": "食べる_？",
+      "answers": [
+        "か"
+      ],
+      "translation": "Are you eating / will you eat?"
+    },
+    {
+      "sentence": "これ_食べる_？",
+      "answers": [
+        "を",
+        "か"
+      ],
+      "translation": "Will you eat this?"
+    },
+    {
+      "sentence": "一緒_行く_？",
+      "answers": [
+        "に",
+        "か"
+      ],
+      "translation": "Will you go together?"
+    },
+    {
+      "sentence": "私_行くよ。",
+      "answers": [
+        "は"
+      ],
+      "translation": "I’m going."
+    },
+    {
+      "sentence": "それ_違うよ。",
+      "answers": [
+        "は"
+      ],
+      "translation": "That’s wrong / That’s different."
+    },
+    {
+      "sentence": "これ_私_だよ。",
+      "answers": [
+        "は",
+        "の"
+      ],
+      "translation": "This is mine."
+    },
+    {
+      "sentence": "今日_寒いよ。",
+      "answers": [
+        "は"
+      ],
+      "translation": "It’s cold today."
+    },
+    {
+      "sentence": "日本語_楽しいよ。",
+      "answers": [
+        "は"
+      ],
+      "translation": "Japanese is fun."
+    },
+    {
+      "sentence": "この猫_かわいいね。",
+      "answers": [
+        "は"
+      ],
+      "translation": "This cat is cute, isn’t it?"
+    },
+    {
+      "sentence": "あの犬_大きいね。",
+      "answers": [
+        "は"
+      ],
+      "translation": "That dog is big, isn’t it?"
+    }
+  ]
+}
