@@ -1,0 +1,1414 @@
+{
+  "id": "dutch-a2-verb-conjugation",
+  "name": "Dutch A2 Verb Conjugation",
+  "version": "4.0.0",
+  "sourceLanguage": "nl",
+  "targetLanguage": "en",
+  "practiceMode": "sequential",
+  "choices": [
+    "is",
+    "was"
+  ],
+  "exercises": [
+    {
+      "sentence": "Ik _ elke ochtend koffie.",
+      "answers": [
+        "drink"
+      ],
+      "translation": "I drink coffee every morning.",
+      "choices": [
+        "drinken",
+        "drinkt",
+        "dronk",
+        "gedronken"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Hij _ naar zijn werk.",
+      "answers": [
+        "loopt"
+      ],
+      "translation": "He walks to work.",
+      "choices": [
+        "lopen",
+        "loop",
+        "liep",
+        "gelopen"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Wij _ vanavond pizza.",
+      "answers": [
+        "eten"
+      ],
+      "translation": "We eat pizza tonight.",
+      "choices": [
+        "eet",
+        "at",
+        "gegeten",
+        "etenen"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Gisteren _ ik een nieuw boek.",
+      "answers": [
+        "kocht"
+      ],
+      "translation": "Yesterday I bought a new book.",
+      "choices": [
+        "koop",
+        "kopen",
+        "gekocht",
+        "koopt"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Zij heeft de film _.",
+      "answers": [
+        "gezien"
+      ],
+      "translation": "She has seen the movie.",
+      "choices": [
+        "zien",
+        "zie",
+        "zag",
+        "ziet"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Morgen _ we naar Amsterdam.",
+      "answers": [
+        "gaan"
+      ],
+      "translation": "Tomorrow we are going to Amsterdam.",
+      "choices": [
+        "gaat",
+        "ga",
+        "ging",
+        "gegaan"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Jullie _ hard voor het examen.",
+      "answers": [
+        "leren"
+      ],
+      "translation": "You study hard for the exam.",
+      "choices": [
+        "leert",
+        "leerde",
+        "geleerd",
+        "leer"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Hij _ iedere dag in de tuin.",
+      "answers": [
+        "werkt"
+      ],
+      "translation": "He works in the garden every day.",
+      "choices": [
+        "werken",
+        "werk",
+        "werkte",
+        "gewerkt"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Ik heb mijn huiswerk _.",
+      "answers": [
+        "gemaakt"
+      ],
+      "translation": "I have done my homework.",
+      "choices": [
+        "maak",
+        "maakt",
+        "maken",
+        "maakte"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "We _ onze vrienden elk weekend.",
+      "answers": [
+        "zien"
+      ],
+      "translation": "We see our friends every weekend.",
+      "choices": [
+        "ziet",
+        "zag",
+        "gezien",
+        "zie"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Ik _ een krant.",
+      "answers": [
+        "lees"
+      ],
+      "translation": "I read a newspaper.",
+      "choices": [
+        "lezen",
+        "leest",
+        "las",
+        "gelezen"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Gisteren _ ik een krant.",
+      "answers": [
+        "las"
+      ],
+      "translation": "I read a newspaper.",
+      "choices": [
+        "lezen",
+        "lees",
+        "gelezen",
+        "leest"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Ik heb een krant _.",
+      "answers": [
+        "gelezen"
+      ],
+      "translation": "I have read a newspaper.",
+      "choices": [
+        "lezen",
+        "lees",
+        "las",
+        "leest"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Ik _ een krant.",
+      "answers": [
+        "lees"
+      ],
+      "translation": "I read a newspaper.",
+      "choices": [
+        "lezen",
+        "leest",
+        "las",
+        "gelezen"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Gisteren _ ik een krant.",
+      "answers": [
+        "las"
+      ],
+      "translation": "I read a newspaper.",
+      "choices": [
+        "lezen",
+        "lees",
+        "gelezen",
+        "leest"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Ik heb een krant _.",
+      "answers": [
+        "gelezen"
+      ],
+      "translation": "I have read a newspaper.",
+      "choices": [
+        "lezen",
+        "lees",
+        "las",
+        "leest"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Ik _ een krant.",
+      "answers": [
+        "lees"
+      ],
+      "translation": "I read a newspaper.",
+      "choices": [
+        "lezen",
+        "leest",
+        "las",
+        "gelezen"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Gisteren _ ik een krant.",
+      "answers": [
+        "las"
+      ],
+      "translation": "I read a newspaper.",
+      "choices": [
+        "lezen",
+        "lees",
+        "gelezen",
+        "leest"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Ik heb een krant _.",
+      "answers": [
+        "gelezen"
+      ],
+      "translation": "I have read a newspaper.",
+      "choices": [
+        "lezen",
+        "lees",
+        "las",
+        "leest"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Ik _ een krant.",
+      "answers": [
+        "lees"
+      ],
+      "translation": "I read a newspaper.",
+      "choices": [
+        "lezen",
+        "leest",
+        "las",
+        "gelezen"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Gisteren _ ik een krant.",
+      "answers": [
+        "las"
+      ],
+      "translation": "I read a newspaper.",
+      "choices": [
+        "lezen",
+        "lees",
+        "gelezen",
+        "leest"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Ik heb een krant _.",
+      "answers": [
+        "gelezen"
+      ],
+      "translation": "I have read a newspaper.",
+      "choices": [
+        "lezen",
+        "lees",
+        "las",
+        "leest"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Ik _ een krant.",
+      "answers": [
+        "lees"
+      ],
+      "translation": "I read a newspaper.",
+      "choices": [
+        "lezen",
+        "leest",
+        "las",
+        "gelezen"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Gisteren _ ik een krant.",
+      "answers": [
+        "las"
+      ],
+      "translation": "I read a newspaper.",
+      "choices": [
+        "lezen",
+        "lees",
+        "gelezen",
+        "leest"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Ik heb een krant _.",
+      "answers": [
+        "gelezen"
+      ],
+      "translation": "I have read a newspaper.",
+      "choices": [
+        "lezen",
+        "lees",
+        "las",
+        "leest"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Ik _ een krant.",
+      "answers": [
+        "lees"
+      ],
+      "translation": "I read a newspaper.",
+      "choices": [
+        "lezen",
+        "leest",
+        "las",
+        "gelezen"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Gisteren _ ik een krant.",
+      "answers": [
+        "las"
+      ],
+      "translation": "I read a newspaper.",
+      "choices": [
+        "lezen",
+        "lees",
+        "gelezen",
+        "leest"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Ik heb een krant _.",
+      "answers": [
+        "gelezen"
+      ],
+      "translation": "I have read a newspaper.",
+      "choices": [
+        "lezen",
+        "lees",
+        "las",
+        "leest"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Hij _ een e-mail.",
+      "answers": [
+        "schrijft"
+      ],
+      "translation": "He writes an email.",
+      "choices": [
+        "schrijven",
+        "schrijf",
+        "schreef",
+        "geschreven"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Gisteren _ hij een e-mail.",
+      "answers": [
+        "schreef"
+      ],
+      "translation": "He wrote an email.",
+      "choices": [
+        "schrijven",
+        "schrijft",
+        "geschreven",
+        "schrijf"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Hij heeft een e-mail _.",
+      "answers": [
+        "geschreven"
+      ],
+      "translation": "He has written an email.",
+      "choices": [
+        "schrijven",
+        "schrijft",
+        "schreef",
+        "schrijf"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Hij _ een e-mail.",
+      "answers": [
+        "schrijft"
+      ],
+      "translation": "He writes an email.",
+      "choices": [
+        "schrijven",
+        "schrijf",
+        "schreef",
+        "geschreven"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Gisteren _ hij een e-mail.",
+      "answers": [
+        "schreef"
+      ],
+      "translation": "He wrote an email.",
+      "choices": [
+        "schrijven",
+        "schrijft",
+        "geschreven",
+        "schrijf"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Hij heeft een e-mail _.",
+      "answers": [
+        "geschreven"
+      ],
+      "translation": "He has written an email.",
+      "choices": [
+        "schrijven",
+        "schrijft",
+        "schreef",
+        "schrijf"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Hij _ een e-mail.",
+      "answers": [
+        "schrijft"
+      ],
+      "translation": "He writes an email.",
+      "choices": [
+        "schrijven",
+        "schrijf",
+        "schreef",
+        "geschreven"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Gisteren _ hij een e-mail.",
+      "answers": [
+        "schreef"
+      ],
+      "translation": "He wrote an email.",
+      "choices": [
+        "schrijven",
+        "schrijft",
+        "geschreven",
+        "schrijf"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Hij heeft een e-mail _.",
+      "answers": [
+        "geschreven"
+      ],
+      "translation": "He has written an email.",
+      "choices": [
+        "schrijven",
+        "schrijft",
+        "schreef",
+        "schrijf"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Hij _ een e-mail.",
+      "answers": [
+        "schrijft"
+      ],
+      "translation": "He writes an email.",
+      "choices": [
+        "schrijven",
+        "schrijf",
+        "schreef",
+        "geschreven"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Gisteren _ hij een e-mail.",
+      "answers": [
+        "schreef"
+      ],
+      "translation": "He wrote an email.",
+      "choices": [
+        "schrijven",
+        "schrijft",
+        "geschreven",
+        "schrijf"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Hij heeft een e-mail _.",
+      "answers": [
+        "geschreven"
+      ],
+      "translation": "He has written an email.",
+      "choices": [
+        "schrijven",
+        "schrijft",
+        "schreef",
+        "schrijf"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Hij _ een e-mail.",
+      "answers": [
+        "schrijft"
+      ],
+      "translation": "He writes an email.",
+      "choices": [
+        "schrijven",
+        "schrijf",
+        "schreef",
+        "geschreven"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Gisteren _ hij een e-mail.",
+      "answers": [
+        "schreef"
+      ],
+      "translation": "He wrote an email.",
+      "choices": [
+        "schrijven",
+        "schrijft",
+        "geschreven",
+        "schrijf"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Hij heeft een e-mail _.",
+      "answers": [
+        "geschreven"
+      ],
+      "translation": "He has written an email.",
+      "choices": [
+        "schrijven",
+        "schrijft",
+        "schreef",
+        "schrijf"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Hij _ een e-mail.",
+      "answers": [
+        "schrijft"
+      ],
+      "translation": "He writes an email.",
+      "choices": [
+        "schrijven",
+        "schrijf",
+        "schreef",
+        "geschreven"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Gisteren _ hij een e-mail.",
+      "answers": [
+        "schreef"
+      ],
+      "translation": "He wrote an email.",
+      "choices": [
+        "schrijven",
+        "schrijft",
+        "geschreven",
+        "schrijf"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Hij heeft een e-mail _.",
+      "answers": [
+        "geschreven"
+      ],
+      "translation": "He has written an email.",
+      "choices": [
+        "schrijven",
+        "schrijft",
+        "schreef",
+        "schrijf"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Wij _ het avondeten.",
+      "answers": [
+        "koken"
+      ],
+      "translation": "We cook dinner.",
+      "choices": [
+        "koken",
+        "kook",
+        "kookte",
+        "gekookt"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Gisteren _ wij het avondeten.",
+      "answers": [
+        "kookte"
+      ],
+      "translation": "We cook dinner.",
+      "choices": [
+        "koken",
+        "koken",
+        "gekookt",
+        "kook"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Wij hebben het avondeten _.",
+      "answers": [
+        "gekookt"
+      ],
+      "translation": "We cook dinner.",
+      "choices": [
+        "koken",
+        "koken",
+        "kookte",
+        "kook"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Wij _ het avondeten.",
+      "answers": [
+        "koken"
+      ],
+      "translation": "We cook dinner.",
+      "choices": [
+        "koken",
+        "kook",
+        "kookte",
+        "gekookt"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Gisteren _ wij het avondeten.",
+      "answers": [
+        "kookte"
+      ],
+      "translation": "We cook dinner.",
+      "choices": [
+        "koken",
+        "koken",
+        "gekookt",
+        "kook"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Wij hebben het avondeten _.",
+      "answers": [
+        "gekookt"
+      ],
+      "translation": "We cook dinner.",
+      "choices": [
+        "koken",
+        "koken",
+        "kookte",
+        "kook"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Wij _ het avondeten.",
+      "answers": [
+        "koken"
+      ],
+      "translation": "We cook dinner.",
+      "choices": [
+        "koken",
+        "kook",
+        "kookte",
+        "gekookt"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Gisteren _ wij het avondeten.",
+      "answers": [
+        "kookte"
+      ],
+      "translation": "We cook dinner.",
+      "choices": [
+        "koken",
+        "koken",
+        "gekookt",
+        "kook"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Wij hebben het avondeten _.",
+      "answers": [
+        "gekookt"
+      ],
+      "translation": "We cook dinner.",
+      "choices": [
+        "koken",
+        "koken",
+        "kookte",
+        "kook"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Wij _ het avondeten.",
+      "answers": [
+        "koken"
+      ],
+      "translation": "We cook dinner.",
+      "choices": [
+        "koken",
+        "kook",
+        "kookte",
+        "gekookt"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Gisteren _ wij het avondeten.",
+      "answers": [
+        "kookte"
+      ],
+      "translation": "We cook dinner.",
+      "choices": [
+        "koken",
+        "koken",
+        "gekookt",
+        "kook"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Wij hebben het avondeten _.",
+      "answers": [
+        "gekookt"
+      ],
+      "translation": "We cook dinner.",
+      "choices": [
+        "koken",
+        "koken",
+        "kookte",
+        "kook"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Wij _ het avondeten.",
+      "answers": [
+        "koken"
+      ],
+      "translation": "We cook dinner.",
+      "choices": [
+        "koken",
+        "kook",
+        "kookte",
+        "gekookt"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Gisteren _ wij het avondeten.",
+      "answers": [
+        "kookte"
+      ],
+      "translation": "We cook dinner.",
+      "choices": [
+        "koken",
+        "koken",
+        "gekookt",
+        "kook"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Wij hebben het avondeten _.",
+      "answers": [
+        "gekookt"
+      ],
+      "translation": "We cook dinner.",
+      "choices": [
+        "koken",
+        "koken",
+        "kookte",
+        "kook"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Wij _ het avondeten.",
+      "answers": [
+        "koken"
+      ],
+      "translation": "We cook dinner.",
+      "choices": [
+        "koken",
+        "kook",
+        "kookte",
+        "gekookt"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Gisteren _ wij het avondeten.",
+      "answers": [
+        "kookte"
+      ],
+      "translation": "We cook dinner.",
+      "choices": [
+        "koken",
+        "koken",
+        "gekookt",
+        "kook"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Wij hebben het avondeten _.",
+      "answers": [
+        "gekookt"
+      ],
+      "translation": "We cook dinner.",
+      "choices": [
+        "koken",
+        "koken",
+        "kookte",
+        "kook"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Zij _ voetbal.",
+      "answers": [
+        "speelt"
+      ],
+      "translation": "She plays football.",
+      "choices": [
+        "spelen",
+        "speel",
+        "speelde",
+        "gespeeld"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Gisteren _ zij voetbal.",
+      "answers": [
+        "speelde"
+      ],
+      "translation": "She played football.",
+      "choices": [
+        "spelen",
+        "speelt",
+        "gespeeld",
+        "speel"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Zij heeft voetbal _.",
+      "answers": [
+        "gespeeld"
+      ],
+      "translation": "She has played football.",
+      "choices": [
+        "spelen",
+        "speelt",
+        "speelde",
+        "speel"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Zij _ voetbal.",
+      "answers": [
+        "speelt"
+      ],
+      "translation": "She plays football.",
+      "choices": [
+        "spelen",
+        "speel",
+        "speelde",
+        "gespeeld"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Gisteren _ zij voetbal.",
+      "answers": [
+        "speelde"
+      ],
+      "translation": "She played football.",
+      "choices": [
+        "spelen",
+        "speelt",
+        "gespeeld",
+        "speel"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Zij heeft voetbal _.",
+      "answers": [
+        "gespeeld"
+      ],
+      "translation": "She has played football.",
+      "choices": [
+        "spelen",
+        "speelt",
+        "speelde",
+        "speel"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Zij _ voetbal.",
+      "answers": [
+        "speelt"
+      ],
+      "translation": "She plays football.",
+      "choices": [
+        "spelen",
+        "speel",
+        "speelde",
+        "gespeeld"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Gisteren _ zij voetbal.",
+      "answers": [
+        "speelde"
+      ],
+      "translation": "She played football.",
+      "choices": [
+        "spelen",
+        "speelt",
+        "gespeeld",
+        "speel"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Zij heeft voetbal _.",
+      "answers": [
+        "gespeeld"
+      ],
+      "translation": "She has played football.",
+      "choices": [
+        "spelen",
+        "speelt",
+        "speelde",
+        "speel"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Zij _ voetbal.",
+      "answers": [
+        "speelt"
+      ],
+      "translation": "She plays football.",
+      "choices": [
+        "spelen",
+        "speel",
+        "speelde",
+        "gespeeld"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Gisteren _ zij voetbal.",
+      "answers": [
+        "speelde"
+      ],
+      "translation": "She played football.",
+      "choices": [
+        "spelen",
+        "speelt",
+        "gespeeld",
+        "speel"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Zij heeft voetbal _.",
+      "answers": [
+        "gespeeld"
+      ],
+      "translation": "She has played football.",
+      "choices": [
+        "spelen",
+        "speelt",
+        "speelde",
+        "speel"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Zij _ voetbal.",
+      "answers": [
+        "speelt"
+      ],
+      "translation": "She plays football.",
+      "choices": [
+        "spelen",
+        "speel",
+        "speelde",
+        "gespeeld"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Gisteren _ zij voetbal.",
+      "answers": [
+        "speelde"
+      ],
+      "translation": "She played football.",
+      "choices": [
+        "spelen",
+        "speelt",
+        "gespeeld",
+        "speel"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Zij heeft voetbal _.",
+      "answers": [
+        "gespeeld"
+      ],
+      "translation": "She has played football.",
+      "choices": [
+        "spelen",
+        "speelt",
+        "speelde",
+        "speel"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Zij _ voetbal.",
+      "answers": [
+        "speelt"
+      ],
+      "translation": "She plays football.",
+      "choices": [
+        "spelen",
+        "speel",
+        "speelde",
+        "gespeeld"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Gisteren _ zij voetbal.",
+      "answers": [
+        "speelde"
+      ],
+      "translation": "She played football.",
+      "choices": [
+        "spelen",
+        "speelt",
+        "gespeeld",
+        "speel"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Zij heeft voetbal _.",
+      "answers": [
+        "gespeeld"
+      ],
+      "translation": "She has played football.",
+      "choices": [
+        "spelen",
+        "speelt",
+        "speelde",
+        "speel"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Jullie _ met de trein.",
+      "answers": [
+        "reizen"
+      ],
+      "translation": "You travel by train.",
+      "choices": [
+        "reizen",
+        "reis",
+        "reisde",
+        "gereisd"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Gisteren _ jullie met de trein.",
+      "answers": [
+        "reisde"
+      ],
+      "translation": "You travelled by train.",
+      "choices": [
+        "reizen",
+        "reizen",
+        "gereisd",
+        "reis"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Jullie hebben met de trein _.",
+      "answers": [
+        "gereisd"
+      ],
+      "translation": "You have travelled by train.",
+      "choices": [
+        "reizen",
+        "reizen",
+        "reisde",
+        "reis"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Jullie _ met de trein.",
+      "answers": [
+        "reizen"
+      ],
+      "translation": "You travel by train.",
+      "choices": [
+        "reizen",
+        "reis",
+        "reisde",
+        "gereisd"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Gisteren _ jullie met de trein.",
+      "answers": [
+        "reisde"
+      ],
+      "translation": "You travelled by train.",
+      "choices": [
+        "reizen",
+        "reizen",
+        "gereisd",
+        "reis"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Jullie hebben met de trein _.",
+      "answers": [
+        "gereisd"
+      ],
+      "translation": "You have travelled by train.",
+      "choices": [
+        "reizen",
+        "reizen",
+        "reisde",
+        "reis"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Jullie _ met de trein.",
+      "answers": [
+        "reizen"
+      ],
+      "translation": "You travel by train.",
+      "choices": [
+        "reizen",
+        "reis",
+        "reisde",
+        "gereisd"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Gisteren _ jullie met de trein.",
+      "answers": [
+        "reisde"
+      ],
+      "translation": "You travelled by train.",
+      "choices": [
+        "reizen",
+        "reizen",
+        "gereisd",
+        "reis"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Jullie hebben met de trein _.",
+      "answers": [
+        "gereisd"
+      ],
+      "translation": "You have travelled by train.",
+      "choices": [
+        "reizen",
+        "reizen",
+        "reisde",
+        "reis"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Jullie _ met de trein.",
+      "answers": [
+        "reizen"
+      ],
+      "translation": "You travel by train.",
+      "choices": [
+        "reizen",
+        "reis",
+        "reisde",
+        "gereisd"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Gisteren _ jullie met de trein.",
+      "answers": [
+        "reisde"
+      ],
+      "translation": "You travelled by train.",
+      "choices": [
+        "reizen",
+        "reizen",
+        "gereisd",
+        "reis"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Jullie hebben met de trein _.",
+      "answers": [
+        "gereisd"
+      ],
+      "translation": "You have travelled by train.",
+      "choices": [
+        "reizen",
+        "reizen",
+        "reisde",
+        "reis"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Jullie _ met de trein.",
+      "answers": [
+        "reizen"
+      ],
+      "translation": "You travel by train.",
+      "choices": [
+        "reizen",
+        "reis",
+        "reisde",
+        "gereisd"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Gisteren _ jullie met de trein.",
+      "answers": [
+        "reisde"
+      ],
+      "translation": "You travelled by train.",
+      "choices": [
+        "reizen",
+        "reizen",
+        "gereisd",
+        "reis"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Jullie hebben met de trein _.",
+      "answers": [
+        "gereisd"
+      ],
+      "translation": "You have travelled by train.",
+      "choices": [
+        "reizen",
+        "reizen",
+        "reisde",
+        "reis"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Jullie _ met de trein.",
+      "answers": [
+        "reizen"
+      ],
+      "translation": "You travel by train.",
+      "choices": [
+        "reizen",
+        "reis",
+        "reisde",
+        "gereisd"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Gisteren _ jullie met de trein.",
+      "answers": [
+        "reisde"
+      ],
+      "translation": "You travelled by train.",
+      "choices": [
+        "reizen",
+        "reizen",
+        "gereisd",
+        "reis"
+      ],
+      "explanation": "Choose the correct verb form."
+    },
+    {
+      "sentence": "Jullie hebben met de trein _.",
+      "answers": [
+        "gereisd"
+      ],
+      "translation": "You have travelled by train.",
+      "choices": [
+        "reizen",
+        "reizen",
+        "reisde",
+        "reis"
+      ],
+      "explanation": "Choose the correct verb form."
+    }
+  ]
+}
